@@ -1,4 +1,4 @@
-<img src="https://github.com/vs-front-end/vs-front-end/blob/main/banner.webp" alt="html logo"  />
+<img src="https://github.com/vs-front-end/vs-front-end/blob/main/banner.png" alt="html logo"  />
 
 <hr>
 
