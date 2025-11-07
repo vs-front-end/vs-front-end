@@ -1,7 +1,3 @@
-<img src="https://github.com/vs-front-end/vs-front-end/blob/main/banner.png" alt="html logo"  />
-
-<hr>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
@@ -15,8 +11,6 @@
   <img width="12" />	
   <img src="https://skillicons.dev/icons?i=styledcomponents" height="60" alt="styled logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongo" height="60" alt="mongo logo"  />
@@ -27,9 +21,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bitbucket" height="60" alt="bitbucket logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
 </div>
-
-<hr>
