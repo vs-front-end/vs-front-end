@@ -1,16 +1,27 @@
 ### 👻 Hi there, I'm Vitor Silva!
 
-I'm a passionate **Front-End Developer** focused on creating clean, performant, and user-friendly web applications. With a strong foundation in the React ecosystem and TypeScript, I leverage modern **AI tools** to build smarter and faster digital solutions.
+I'm a passionate **Front-End Developer (Web & Mobile)** focused on building clean, performant, and user-friendly applications. With a strong background in the **React ecosystem**, **TypeScript**, and **React Native**, I create scalable and maintainable solutions following modern best practices. I also leverage modern **AI tools** to work smarter and faster.
 
 ---
 
 ### ⚙️ Tech Stack & Tools
 
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3.
-- **Frameworks/Libraries:** React.js, Next.js, Styled Components.
-- **Back-End & DB:** Node.js, MongoDB.
-- **Tools & Workflow:** Git, GitHub, Bitbucket, Figma.
-- **AI & Productivity:** Cursor, ChatGPT, Gemini, Claude.
+* **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+* **Frameworks & Libraries:** React.js, Next.js, React Native, Styled Components, Tailwind CSS
+* **State & Data:** Context API, Redux, React Query
+* **Back-End & DB:** Node.js, MongoDB
+* **UI & Docs:** Storybook, Figma
+* **Tools & Workflow:** Git, GitHub, Bitbucket
+* **AI & Productivity:** Cursor, ChatGPT, Gemini, Claude
+
+---
+
+### 🚀 What I Focus On
+
+* Scalable and maintainable **Web and Mobile** applications
+* Strong typing and clean architecture
+* Efficient state management and reusable components
+* Responsive, accessible, and well-documented interfaces
 
 ---
 
