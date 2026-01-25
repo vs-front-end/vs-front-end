@@ -28,3 +28,11 @@ I'm a passionate **Front-End Developer (Web & Mobile)** focused on building clea
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,styledcomponents,nodejs,mongo,git,github,bitbucket,npm,figma" />
 </div>
+
+---
+
+<div align="center">
+  <a href="https://stellar-ui-one.vercel.app/">
+    <img src="https://img.shields.io/badge/Stellar_UI-Visit_Project-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Stellar UI" />
+  </a>
+</div>
