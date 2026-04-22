@@ -33,6 +33,7 @@ I'm a passionate **Front-End Developer (Web & Mobile)** focused on building clea
 
 <div align="center">
 
+[![VS.DEV](https://img.shields.io/badge/VS.DEV-%23CD3149.svg?style=for-the-badge&logo=github&logoColor=white)](https://vs-front-end.github.io/vs-dev-page/)
 [![Stellar UI](https://img.shields.io/badge/Stellar_UI-%237F32A9.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://stellar-ui-one.vercel.app/)
 [![Think Cards](https://img.shields.io/badge/Think_Cards-%233648CE.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://think-cards.com/)
 
