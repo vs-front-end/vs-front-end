@@ -1,6 +1,6 @@
 ### 👻 Hi there, I'm Vitor Silva!
 
-I'm a passionate **Front-End Developer (Web & Mobile)** focused on building clean, performant, and user-friendly applications. With a strong background in the **React ecosystem**, **TypeScript**, and **React Native**, I create scalable and maintainable solutions following modern best practices. I also leverage modern **AI tools** to work smarter and faster.
+I'm a passionate **Full Stack Developer (Web & Mobile)** focused on building clean, performant, and user-friendly applications. With a strong background in the **React ecosystem**, **TypeScript**, and **React Native**, I create scalable and maintainable solutions following modern best practices. I also leverage modern **AI tools** to work smarter and faster.
 
 ---
 
