@@ -26,7 +26,7 @@ I'm a passionate **Full Stack Developer (Web & Mobile)** focused on building cle
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,styledcomponents,nodejs,mongo,git,github,bitbucket,npm,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,nodejs,nestjs,mongo,git,github,bitbucket,npm,figma" />
 </div>
 
 ---
